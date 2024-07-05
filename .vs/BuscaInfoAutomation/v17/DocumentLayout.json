@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\C#\\BuscaInfoAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|c:\\workspace\\c#\\buscainfoautomation\\buscaprecoacao.ui.site\\core\\dsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|solutionrelative:buscaprecoacao.ui.site\\core\\dsl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|c:\\workspace\\c#\\buscainfoautomation\\buscaprecoacao.ui.site\\page\\validadividendospage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|solutionrelative:buscaprecoacao.ui.site\\page\\validadividendospage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|c:\\workspace\\c#\\buscainfoautomation\\buscaprecoacao.ui.site\\test\\validadividendostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|solutionrelative:buscaprecoacao.ui.site\\test\\validadividendostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|c:\\workspace\\c#\\buscainfoautomation\\buscaprecoacao.ui.site\\core\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|solutionrelative:buscaprecoacao.ui.site\\core\\begin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|c:\\workspace\\c#\\buscainfoautomation\\buscaprecoacao.ui.site\\core\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98163A91-6B2B-4ED4-8590-07F3F49DF16D}|BuscaPrecoAcao.UI.Site\\BuscaPrecoAcao.UI.Site.csproj|solutionrelative:buscaprecoacao.ui.site\\core\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidaDividendosPage.cs",
+              "DocumentMoniker": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Page\\ValidaDividendosPage.cs",
+              "RelativeDocumentMoniker": "BuscaPrecoAcao.UI.Site\\Page\\ValidaDividendosPage.cs",
+              "ToolTip": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Page\\ValidaDividendosPage.cs",
+              "RelativeToolTip": "BuscaPrecoAcao.UI.Site\\Page\\ValidaDividendosPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:04:12.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidaDividendosTest.cs",
+              "DocumentMoniker": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Test\\ValidaDividendosTest.cs",
+              "RelativeDocumentMoniker": "BuscaPrecoAcao.UI.Site\\Test\\ValidaDividendosTest.cs",
+              "ToolTip": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Test\\ValidaDividendosTest.cs",
+              "RelativeToolTip": "BuscaPrecoAcao.UI.Site\\Test\\ValidaDividendosTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T03:03:37.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalVariables.cs",
+              "DocumentMoniker": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Core\\GlobalVariables.cs",
+              "RelativeDocumentMoniker": "BuscaPrecoAcao.UI.Site\\Core\\GlobalVariables.cs",
+              "ToolTip": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Core\\GlobalVariables.cs",
+              "RelativeToolTip": "BuscaPrecoAcao.UI.Site\\Core\\GlobalVariables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:31:50.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DSL.cs",
+              "DocumentMoniker": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Core\\DSL.cs",
+              "RelativeDocumentMoniker": "BuscaPrecoAcao.UI.Site\\Core\\DSL.cs",
+              "ToolTip": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Core\\DSL.cs",
+              "RelativeToolTip": "BuscaPrecoAcao.UI.Site\\Core\\DSL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:26:46.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Begin.cs",
+              "DocumentMoniker": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Core\\Begin.cs",
+              "RelativeDocumentMoniker": "BuscaPrecoAcao.UI.Site\\Core\\Begin.cs",
+              "ToolTip": "C:\\workspace\\C#\\BuscaInfoAutomation\\BuscaPrecoAcao.UI.Site\\Core\\Begin.cs",
+              "RelativeToolTip": "BuscaPrecoAcao.UI.Site\\Core\\Begin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:12:03.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
