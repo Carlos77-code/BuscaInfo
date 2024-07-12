@@ -215,3 +215,4 @@ C:\workspace\C#\BuscaInfoAutomation\BuscaPrecoAcao.UI.Site\obj\Debug\net8.0\Busc
 C:\workspace\C#\BuscaInfoAutomation\BuscaPrecoAcao.UI.Site\obj\Debug\net8.0\BuscaPrecoAcao.UI.Site.genruntimeconfig.cache
 C:\workspace\C#\BuscaInfoAutomation\BuscaPrecoAcao.UI.Site\obj\Debug\net8.0\ref\BuscaPrecoAcao.UI.Site.dll
 C:\workspace\C#\BuscaInfoAutomation\BuscaPrecoAcao.UI.Site\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\workspace\C#\BuscaInfoAutomation\BuscaPrecoAcao.UI.Site\obj\Debug\net8.0\BuscaPrecoAcao.UI.Site.sourcelink.json

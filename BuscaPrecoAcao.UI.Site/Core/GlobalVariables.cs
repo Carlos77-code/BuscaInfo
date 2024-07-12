@@ -10,5 +10,8 @@ namespace BuscaPrecoAcao.UI.Site.Core
 
         // Define 'Fechar navegador ao final do teste' como padrã 
         public bool driverQuit = false; // Dessa forma ele começa com valor false e não fecha a tela após o teste
+
+        // Habilita ou desabilita o modo headless
+        public bool headlessTest = true;
     }
 }

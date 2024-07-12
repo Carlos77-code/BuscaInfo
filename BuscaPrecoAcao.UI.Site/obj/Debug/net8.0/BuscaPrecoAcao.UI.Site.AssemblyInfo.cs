@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuscaPrecoAcao.UI.Site")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+583977b96cdf9d63a1ba3b0e497137e7352d44a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuscaPrecoAcao.UI.Site")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuscaPrecoAcao.UI.Site")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
